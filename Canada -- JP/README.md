@@ -1,9 +1,9 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ [BTCLearn.org]
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** [Canada]
+- **City:** [Vancouver]
 
 ## 📖 About Us
 [Insert a brief description of your Light Node, its mission, vision, and activities here]
@@ -20,11 +20,9 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Website:** [btclearn.org]
+- **Email:** [jp@btclearn.org]
+- **Telegram:** [@jpgbtc]
 
 ## 💰 Official Donation Link
 Support our activities by donating through [insert your donation link here].
